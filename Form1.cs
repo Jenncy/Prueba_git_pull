@@ -16,5 +16,10 @@ namespace Prueba_git_pull
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Holalalala");
+        }
     }
 }
