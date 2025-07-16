@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Prueba_git_pull
 {
-    public partial class Form1 : Form
+    public partial class hola2 : Form
     {
-        public Form1()
+        public hola2()
         {
             InitializeComponent();
         }
