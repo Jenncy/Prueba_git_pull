@@ -16,7 +16,7 @@ namespace Prueba_git_pull
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new prueba2());
+            Application.Run(new hola());
         }
     }
 }
